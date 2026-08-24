@@ -1,0 +1,51 @@
+# kicad
+# Temporary files
+*-save.kicad_pcb
+*-save.pro
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_prl
+*.kicad_sch-bak
+*.sch-bak
+*.tmp
+*~
+_autosave-*
+fp-info-cache
+
+# Netlist files (exported from Eeschema)
+*.net
+
+# Autorouter files (exported from Pcbnew)
+*.dsn
+*.ses
+
+# Exported BOM files
+*.csv
+*.xml
+
+# mplab files
+!**/nbproject/configurations.xml
+!**/nbproject/project.xml
+**/nbproject/*
+*.d
+*.lst
+*.map
+*.o
+*.obj
+*.obj.dmp
+*.p1
+*.pre
+*.sdb
+*.sym
+build/
+disassembly/
+dist/
+funclist
+html/
+nb-configuration.xml
+nbactions.xml
+nbbuild/
+nbdist/
+nbproject/Makefile-*
