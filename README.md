@@ -9,3 +9,8 @@ Códigos relacionados às atividades práticas da disciplina de Microprocessador
 - MPLAB IDE
 - PICkit ou compatível
 
+## Lista de Práticas
+
+| Nº da Prática | Descrição | Link |
+|     ---       |    ---    |  --- |
+| 01 | Familiarização e E/S | [Link para acesso](https://github.com/ladesi/microprocessadores)
